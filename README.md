@@ -44,15 +44,11 @@ Contributions to this project are welcome! If you find any issues or have ideas 
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
+This project is licensed under the Mit
 ## Acknowledgments
 
 - The MNIST dataset is provided by Yann LeCun and Corinna Cortes and is available [here](http://yann.lecun.com/exdb/mnist/).
 
 ---
 
-Feel free to customize this README.md file to suit your project's specific details and add any additional sections that might be relevant to your repository. Happy coding! 🚀
-```
 
-Please replace the placeholders with your project-specific information, such as the actual Python version used, additional dependencies (if any), acknowledgments, and any other details you'd like to include. The README.md file serves as an essential guide to your repository, so make sure it's informative and engaging!
